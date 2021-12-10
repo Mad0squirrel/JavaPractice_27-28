@@ -1,1 +1,1 @@
-# JavaPractice_27-28
+"# zadanieN27-28" 
